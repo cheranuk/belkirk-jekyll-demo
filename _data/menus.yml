@@ -1,0 +1,5 @@
+---
+navigation:
+- url: http://test.com
+  weight: 6
+  title: Test
